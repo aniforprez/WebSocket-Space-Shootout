@@ -1,0 +1,26 @@
+info it worked if it ends with ok
+verbose cli [ 'C:\\Program Files\\nodejs\\\\node.exe',
+verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+verbose cli   'install',
+verbose cli   'mysql' ]
+info using npm@1.1.0-alpha-5
+info using node@v0.6.10
+verbose config file C:\Users\Anirudh\.npmrc
+verbose config file C:\Program Files\nodejs\etc\npmrc
+verbose config file C:\Program Files\nodejs\node_modules\npm\npmrc
+ERR! prefix directory not found
+ERR! Error: ENOENT, no such file or directory 'C:\Users\Anirudh\WebSock\${APPDATA}\npm'
+ERR! Report this *entire* log at:
+ERR!     <http://github.com/isaacs/npm/issues>
+ERR! or email it to:
+ERR!     <npm-@googlegroups.com>
+ERR! 
+ERR! System Windows_NT 6.1.7601
+ERR! command "C:\\Program Files\\nodejs\\\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install" "mysql"
+ERR! cwd C:\Users\Anirudh\WebSock
+ERR! node -v v0.6.10
+ERR! npm -v 1.1.0-alpha-5
+ERR! path C:\Users\Anirudh\WebSock\${APPDATA}\npm
+ERR! code ENOENT
+ERR! message ENOENT, no such file or directory 'C:\Users\Anirudh\WebSock\${APPDATA}\npm'
+verbose exit [ 1, true ]
