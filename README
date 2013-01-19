@@ -1,0 +1,1 @@
+Run the game.js in the main folder in node and open index.html using the browser of your choice and voila! Change the "localhost" in index.html and in gameAlt.js in the public folder to play on LAN.
